@@ -1,0 +1,12 @@
+name: DDPShinyApp_Covid19
+title: DDPShinyApp_Covid19
+username:
+account: shubhendudash
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2616482
+bundleId: 3441220
+url: https://shubhendudash.shinyapps.io/DDPShinyApp_Covid19/
+when: 1595857881.31575
+asMultiple: FALSE
+asStatic: FALSE
